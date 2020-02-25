@@ -15,13 +15,13 @@ h1, h2{
     border: 5px solid white;
 }
 .block:first-child {
-    background-color: #801821;
+    background-color: #9c3428;
 }
 .block:nth-child(2) {
-    background-color: #239445;
+    background-color: #2e6e30;
 }
 .block:last-child {
-    background-color: #302ebf;
+    background-color: #2b2685;
 }
 ul {
     list-style: none;
@@ -48,7 +48,7 @@ span, ul li {
     .block {
         width: 100%;
     }
-    /* .block:first-child {
+     /* .block:first-child {
         width: 100%;
     }
     .block:nth-child(2), .block:last-child {
